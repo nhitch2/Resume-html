@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>John Doe's Resume</title>
+    </head>
+    <body style="font-family: Arial, Helvetica, sans-serif;">
+        <header>
+            <h1>John Doe's Resume</h1>
+            <a href="#contactInfo">Contact Me!</a>
+        </header>
+        <!-- OBJECTIVE STATEMENT ds 090724 -->
+        <section>
+            <h3>Objective</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi ab dolor natus quisquam tempore sint in similique et architecto odit. Ipsam porro ipsa dolore cupiditate veniam modi, perferendis fugiat pariatur?</p>
+        </section>
+        <hr>
+        <!-- EXPERIENCE SECTION -->
+        <section>
+            <h3>Experience</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius eos officia nemo facilis consequuntur, similique aperiam ducimus ut blanditiis iusto molestias possimus? In placeat provident illo quidem quam ullam quos.</p>
+            <ul>
+                <li><a href="http://www.wgu.edu" target="_blank">Western Governors University</a></li>
+                    <ul>
+                        <li>Senior Instructor</li>
+                        <li>March 2019 - Present</li>
+                        <li>Responsibilities</li>
+                            <ul>
+                                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed vero vitae cupiditate atque enim alias labore laboriosam dicta ex aliquam! Repudiandae quisquam culpa explicabo? Consequuntur maiores quas eos quibusdam ullam.</li>
+                                <li>Dolore eius dolores libero impedit deleniti voluptates, tempora mollitia aut rerum hic voluptate ex eum ducimus illum dicta autem! Similique blanditiis magnam odio praesentium excepturi quod nulla voluptatibus quas qui.</li>
+                                <li>Veniam sint, maxime excepturi voluptate reprehenderit nemo enim provident voluptatem, eos illo sequi voluptates quae magni labore dolores quos molestias! Dolores eum nisi veniam blanditiis sunt aliquid accusamus exercitationem obcaecati.</li>
+                            </ul>
+                    </ul>
+                <li>Lorem Ipsum Dolor</li>
+                    <ul>
+                        <li>Position Title</li>
+                        <li>Date Range</li>
+                        <li>Responsibilities</li>
+                            <ul>
+                                <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia eaque fugit quis distinctio inventore necessitatibus iste, a, deleniti rerum consequuntur molestiae voluptate, autem cupiditate voluptas sit explicabo tempore earum ducimus?</li>
+                                <li>Repellendus accusantium assumenda quod molestias ab! Delectus eaque accusamus possimus non, temporibus assumenda nam et dolor asperiores numquam excepturi facilis. Est provident porro corrupti magnam impedit cupiditate hic eaque quae?</li>
+                                <li>Voluptatum, incidunt aperiam? Deleniti numquam nostrum unde neque id distinctio, ullam error aliquam autem! Dolores quia vel amet quis commodi est nisi nostrum ratione ea. Delectus accusamus numquam aperiam dignissimos.</li>
+                            </ul>
+                    </ul>
+                <li>Consequatur Quia Nam</li>
+                    <ul>
+                        <li>Position Title</li>
+                        <li>Date Range</li>
+                        <li>Responsibilities</li>
+                            <ul>
+                                <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia eaque fugit quis distinctio inventore necessitatibus iste, a, deleniti rerum consequuntur molestiae voluptate, autem cupiditate voluptas sit explicabo tempore earum ducimus?</li>
+                                <li>Repellendus accusantium assumenda quod molestias ab! Delectus eaque accusamus possimus non, temporibus assumenda nam et dolor asperiores numquam excepturi facilis. Est provident porro corrupti magnam impedit cupiditate hic eaque quae?</li>
+                                <li>Voluptatum, incidunt aperiam? Deleniti numquam nostrum unde neque id distinctio, ullam error aliquam autem! Dolores quia vel amet quis commodi est nisi nostrum ratione ea. Delectus accusamus numquam aperiam dignissimos.</li>
+                            </ul>
+                    </ul>
+            </ul>
+        </section>
+        <hr>
+        <!-- EDUCATION SECTION -->
+        <section>
+            <h3>Education</h3>
+            <ul>
+                <li>Westminster College</li>
+                    <ul>
+                        <li>Master of Professional Communication w/Information Technology emphasis</li>
+                        <li>GPA: 3.75</li>
+                    </ul>
+                <li>University of Phoenix</li>
+                    <ul>
+                        <li>Degree Earned</li>
+                        <li>GPA</li>
+                    </ul>
+                <li>DeVry Institute of Technology</li>
+                    <ul>
+                        <li>Degree Earned</li>
+                        <li>GPA</li>
+                    </ul>
+                <li>Poquoson High School</li>
+                    <ul>
+                        <li>Degree Earned</li>
+                        <li>GPA</li>
+                    </ul>
+            </ul>
+        </section>
+        <hr>
+        <!-- SKILLS SECTION -->
+        <section>
+        <h3>Skills</h3>
+        <ul style="columns:3;">
+            <li>Lorem ipsum dolor sit.</li>
+            <li>Cum repellat inventore minus.</li>
+            <li>Beatae quisquam earum sed!</li>
+            <li>Quam beatae porro amet!</li>
+            <li>Fuga vitae iusto eum.</li>
+            <li>Ut nesciunt nisi quos?</li>
+            <li>Amet eius veritatis numquam.</li>
+            <li>Libero sapiente necessitatibus ea?</li>
+            <li>Laborum voluptatibus voluptas non.</li>
+            <li>Blanditiis neque voluptas facere!</li>
+            <li>Laboriosam culpa dolor voluptatibus?</li>
+            <li>A repellat cupiditate aliquam.</li>
+        </ul>
+        </section>
+         <hr>
+         <!-- CONTACT INFORMATION -->
+        <section id="contactInfo" style="padding-bottom: 1000px;">
+            &copy; John Doe<br>
+            123 Main Street<br>
+            Winchestertonfieldville, IA &nbsp;65464<br>
+            555-496-8854
+        </section>
+    </body>
+</html>
